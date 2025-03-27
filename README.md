@@ -29,7 +29,8 @@ yolo-built-models/
 ├── v9/
 ├── v10/
 ├── v11/
-│   └── my-game-pics/
+│   ├── my-game-pics/
+│   └── deteksi-asap-api-fire-and-smoke/
 └── ...
 ```
 
@@ -46,6 +47,7 @@ For a complete, up-to-date list of all available models with their classes and p
 
 Current model categories include:
 - Wildlife detection models (coyote, deer, hog, rabbit, raccoon)
+- Safety & hazard detection models (fire)
 - *(more categories to come as the repository grows)*
 
 Each model in this repository comes with detailed documentation and citation information in its own directory.
